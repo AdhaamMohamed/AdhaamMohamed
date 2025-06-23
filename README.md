@@ -16,6 +16,15 @@
 
 ## 👨‍💻 About Me
 
+I'm   a passionate and detail-oriented **Frontend & Backend Developer** (MERN Stack) with a focus on creating clean, efficient, and scalable web applications.
+
+- 🎯 Currently focused on **React** and **Next.js**
+- 🧠 Always learning new tools & technologies in the **JavaScript ecosystem**
+- 💡 Love solving problems, building products, and sharing knowledge
+- 🌍 Based in Egypt, collaborating globally
+
+I work across the full web stack — from pixel-perfect UIs to powerful backend APIs.
+
 ### 🛠 Tech Stack
 #### Frontend :
 <p align="">
